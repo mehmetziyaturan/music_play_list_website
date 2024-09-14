@@ -3,7 +3,7 @@ This is the website music playlist. It has artist list, forward, backward and ti
 
 # Technologies
 <ul>
-	<li>HTML: Used to create the page structure.</li>
+	<li>HTML: Used to create the page structure. </li>
 	<li>CSS: Used for styling and responsive design.</li>
  	<li>JAVASCRIPT: Used to create interactive web pages.</li>
 </ul>
